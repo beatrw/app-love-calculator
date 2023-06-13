@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZ4TSxAIoUcsU59nlzu6npTPjYKrIKvrAJMLRYQ/IjQhhEujF6ocprdD5mY+Oo8vbCDaTZNZp7L6/Cr+sXNyFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beatriz.aquino\\OneDrive - Gentil Negócios\\Documentos\\biblio-app\\amor-web - Copia\\amor-web\\amor-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beatriz.aquino\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\beatriz.aquino\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\beatriz.aquino\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\beatriz.aquino\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\beatriz.aquino\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

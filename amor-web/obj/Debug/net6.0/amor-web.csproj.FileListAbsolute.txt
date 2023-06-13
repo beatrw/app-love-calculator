@@ -1,0 +1,59 @@
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\appsettings.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\amor-web.exe
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\amor-web.deps.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\amor-web.runtimeconfig.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\amor-web.pdb
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\RestSharp.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.csproj.AssemblyReference.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.AssemblyInfoInputs.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.AssemblyInfo.cs
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.RazorAssemblyInfo.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.RazorAssemblyInfo.cs
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\scopedcss\bundle\amor-web.styles.css
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.csproj.CopyComplete
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\refint\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.pdb
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\amor-web.genruntimeconfig.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web\amor-web\obj\Debug\net6.0\ref\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\appsettings.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.exe
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.deps.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.runtimeconfig.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.pdb
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\RestSharp.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.csproj.AssemblyReference.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.AssemblyInfoInputs.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.AssemblyInfo.cs
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.RazorAssemblyInfo.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.RazorAssemblyInfo.cs
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\scopedcss\bundle\amor-web.styles.css
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.csproj.CopyComplete
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\refint\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.pdb
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\amor-web.genruntimeconfig.cache
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\obj\Debug\net6.0\ref\amor-web.dll
+C:\Users\beatriz.aquino\OneDrive - Gentil Negócios\Documentos\biblio-app\amor-web - Copia\amor-web\bin\Debug\net6.0\amor-web.staticwebassets.runtime.json

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JB0EiSgMjNi4XbJ5y3vfCC8KeMCn5r8hFL9q8oqJLBM=",
+  "Source": "amor-web",
+  "BasePath": "_content/amor-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "amor-web\\wwwroot",
+      "Source": "amor-web",
+      "ContentRoot": "C:\\Users\\beatriz.aquino\\OneDrive - Gentil Negócios\\Documentos\\biblio-app\\amor-web - Copia\\amor-web\\wwwroot\\",
+      "BasePath": "_content/amor-web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\beatriz.aquino\\OneDrive - Gentil Negócios\\Documentos\\biblio-app\\amor-web - Copia\\amor-web\\wwwroot\\images\\Home.png",
+      "SourceId": "amor-web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\beatriz.aquino\\OneDrive - Gentil Negócios\\Documentos\\biblio-app\\amor-web - Copia\\amor-web\\wwwroot\\",
+      "BasePath": "_content/amor-web",
+      "RelativePath": "images/Home.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Home.png"
+    }
+  ]
+}
